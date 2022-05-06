@@ -1,0 +1,192 @@
+
+
+body {
+    background-color: #069A8E;
+    color: #A1E3D8;
+
+}
+
+
+/* 
+*********************** up container start ************************
+*/
+.up_container {
+    background-color: #005555;
+    border-radius: 20px;
+    margin-top: 0px;
+    width: 100%;
+
+
+}
+
+.logo {
+    display: inline-block;
+    width: 500px;
+    font-family: 'Courgette', cursive;
+    font-size: 2rem;
+    margin-left:5%;
+}
+
+.dhiraj1 {
+    width: 100%;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+.dhiraj1 h3 {
+    font-size: 2rem;
+    padding-top: 5%;
+    text-align: left;
+    font-weight: normal;
+}
+
+.dhiraj1 img {
+    float: right;
+    height: 450px;
+    width: 400px;
+    border-radius: 10%;
+
+}
+
+.up-h3 {
+    color: white;
+    line-height: 50px;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+
+}
+
+.btn1 {
+    background: #F7FF93;
+    background-image: -webkit-linear-gradient(top, #F7FF93, #F7FF93);
+    background-image: -moz-linear-gradient(top, #F7FF93, #F7FF93);
+    background-image: -ms-linear-gradient(top, #F7FF93, #F7FF93);
+    background-image: -o-linear-gradient(top, #F7FF93, #F7FF93);
+    background-image: linear-gradient(to bottom, #F7FF93, #F7FF93);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #120112;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.btn1:hover {
+    background: #A1E3D8;
+    background-image: -webkit-linear-gradient(top, #A1E3D8, #A1E3D8);
+    background-image: -moz-linear-gradient(top, #A1E3D8, #A1E3D8);
+    background-image: -ms-linear-gradient(top, #A1E3D8, #A1E3D8);
+    background-image: -o-linear-gradient(top, #A1E3D8, #A1E3D8);
+    background-image: linear-gradient(to bottom, #A1E3D8, #A1E3D8);
+    text-decoration: none;
+}
+
+/* 
+*********************** up container End ************************
+*/
+
+/* *************** Mid container start ************* */
+.mid_container {
+    color: white;
+    width: 100%;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+.mid_container img {
+    width: 250px;
+    float: left;
+    padding: 0px 20px 0px 20px;
+}
+
+.mid_container h2 {
+    font-size: 2rem;
+    padding-top: 40px;
+
+}
+
+.mid_container p {
+    font-size: 1.5rem;
+    padding-top: 20px;
+    text-align: center;
+
+}
+.mid_container hr {
+    background-color: #069A8E;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #005555;
+    border-width: 15px;
+    width: 15%;
+}
+.only_hr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* *************** Mid Container End *************** */
+
+/*  */
+/*  */
+/*  */
+
+/* ************ bottom container Start */
+
+.bottom_container{
+    color: white;
+    width: 100%;
+    font-size: 1.8rem;
+    text-align: center;
+}
+.bottom_container img{
+    width: 200px;
+    float: right;
+    margin-right: 10%;
+}
+.work_table{
+    box-sizing: border-box;
+    font-size: 2rem;
+    border: 1px solid yellow;
+    margin-left: 10%;
+    text-align: left;
+    
+}
+
+/* ************ bottom container end */
+
+/* Footer Start */
+
+footer{
+    background-color: #F7FF93;
+    color: #120112;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 10px ;
+    
+}
+
+footer h3{
+    color: #069A8E;
+    font-size: 2rem;
+
+
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+footer a:hover{
+    color: red;
+}
